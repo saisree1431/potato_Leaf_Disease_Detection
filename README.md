@@ -75,19 +75,19 @@ Dataset → Image Preprocessing → Model Training → Model Evaluation → Dise
 ## 📸 Project Screenshots
 
 ### 🏠 Dashboard Home
-![Dashboard Home](potatoLeaf dashboard home-1.png)
+(potatoLeaf dashboard home-1.png)
 
 ### 🧪 Testing the Model
-![Testing the Model](potatoLeaf Testing the model-2.png)
+(potatoLeaf Testing the model-2.png)
 
 ### 🔍 Predicting Output
-![Predicting Output](potatoLeaf Preedicting Output-3.png)
+(potatoLeaf Preedicting Output-3.png)
 
 ### 🖼 Showing Image Input
 ![Showing Image](potatoLeaf showing image-4.png)
 
 ### 📊 Model Accuracy
-![Model Accuracy](potatoLeaf model accuracy-5.png)
+(potatoLeaf model accuracy-5.png)
 
 ---
 
