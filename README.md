@@ -72,14 +72,22 @@ The system follows the following steps:
 Dataset → Image Preprocessing → Model Training → Model Evaluation → Disease Prediction
 
 ---
-
 ## 📸 Project Screenshots
 
-### Model Training
-*(Add your training screenshot here)*
+### 🏠 Dashboard Home
+![Dashboard Home](potatoLeaf dashboard home-1.png)
 
-### Prediction Result
-*(Add your prediction output screenshot here)*
+### 🧪 Testing the Model
+![Testing the Model](potatoLeaf Testing the model-2.png)
+
+### 🔍 Predicting Output
+![Predicting Output](potatoLeaf Preedicting Output-3.png)
+
+### 🖼 Showing Image Input
+![Showing Image](potatoLeaf showing image-4.png)
+
+### 📊 Model Accuracy
+![Model Accuracy](potatoLeaf model accuracy-5.png)
 
 ---
 
