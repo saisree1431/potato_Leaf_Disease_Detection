@@ -98,14 +98,14 @@ After processing the image, the system predicts whether the potato leaf is healt
 ### 🖼 Image Display
 This section shows the uploaded potato leaf image that is being analyzed by the system.
 
-![Showing Image](potatoLeaf showing image-4.png)
+![Showing Image](potatoLeaf_showing_image-4.png)
 
 ---
 
 ### 📊 Model Accuracy
 This graph represents the training performance of the deep learning model, showing the accuracy achieved during the training process.
 
-![Model Accuracy](potatoLeaf model accuracy-5.png)
+![Model Accuracy](potatoLeaf_model_accuracy-5.png)
 
 ---
 
