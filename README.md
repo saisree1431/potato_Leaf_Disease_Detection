@@ -74,20 +74,38 @@ Dataset → Image Preprocessing → Model Training → Model Evaluation → Dise
 ---
 ## 📸 Project Screenshots
 
-### 🏠 Dashboard Home
-(potatoLeaf dashboard home-1.png)
+### 🏠 Home Page / Dashboard
+This is the main interface of the Potato Leaf Disease Detection system where users can upload leaf images for analysis.
+
+![Home Page](potatoLeaf_home_page-1.png)
+
+---
 
 ### 🧪 Testing the Model
-(potatoLeaf Testing the model-2.png)
+This screen shows the testing phase where the trained model processes the uploaded potato leaf image to detect the disease.
 
-### 🔍 Predicting Output
-(potatoLeaf Preedicting Output-3.png)
+![Testing Page](potatoLeaf_Testing_page-2.png)
 
-### 🖼 Showing Image Input
+---
+
+### 🔍 Prediction Output
+After processing the image, the system predicts whether the potato leaf is healthy or affected by a specific disease.
+
+![Prediction Output](potatoLeaf_predict_output_page-3.png)
+
+---
+
+### 🖼 Image Display
+This section shows the uploaded potato leaf image that is being analyzed by the system.
+
 ![Showing Image](potatoLeaf showing image-4.png)
 
+---
+
 ### 📊 Model Accuracy
-(potatoLeaf model accuracy-5.png)
+This graph represents the training performance of the deep learning model, showing the accuracy achieved during the training process.
+
+![Model Accuracy](potatoLeaf model accuracy-5.png)
 
 ---
 
